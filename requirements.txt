@@ -1,0 +1,14 @@
+# Core
+astropy==7.0.1
+numpy==2.2.4
+scipy==1.15.2
+sunpy==6.1.1
+
+# Visualization
+matplotlib>=3.10.1
+
+# Jupyter
+IPython~=8.12.3
+ipywidgets~=8.1.5
+jupyter~=1.1.1  
+notebook~=7.4.2
